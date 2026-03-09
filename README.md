@@ -24,7 +24,7 @@ Currently at **Nivos Verkot Oy**, where I build analytical tools for distributio
 
 ## ⚡ Domain
 
-Electricity markets · Distribution & HV network planning · Load flow & voltage drop analysis · Reliability (SAIDI/SAIFI/CAIDI) · Reactive power · Scenario analysis (EVs, DERs, storage, data centers)
+Electricity markets · Distribution & HV network analysis · Load flow & voltage drop analysis · Reliability (SAIDI/SAIFI/CAIDI) · Reactive power · Scenario analysis (EVs, DERs, storage, data centers)
 
 ## 📂 Featured Projects
 
